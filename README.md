@@ -62,6 +62,8 @@ This project combines Computer Vision and AI to:
 🎛️ Simulated audio features (MFCC + pitch)
 
 😃 Emotion classes: happy, sad, angry, neutral
+# Dataset link
+https://www.kaggle.com/datasets/dataclusterlabs/indian-number-plates-dataset
 
 # ⚠️ Limitations
 🤖 Fake dataset (not real speech)
